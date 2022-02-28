@@ -6,5 +6,5 @@ Le but du mastermind est de trouver la combinaison de 4 couleurs générée par 
 **Attention :** la combinaison à trouver peut contenir plusieurs fois la même réponse. De plus, l'ordre des indices ne correspond pas forcément à l'ordre des couleurs.
 
 ## Fonctionnalités :
-- Réécrire sa combinaison grâce au bouton "Cancel"
+- Réécrire sa combinaison grâce au bouton "Go back"
 - Bouton Replay
